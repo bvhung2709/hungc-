@@ -1,0 +1,32 @@
+F:\Study\Summer 2\C# .net\Project\code\EOS\EOS\bin\Debug\EOS.exe
+F:\Study\Summer 2\C# .net\Project\code\EOS\EOS\bin\Debug\EOS.pdb
+F:\Study\Summer 2\C# .net\Project\code\EOS\EOS\obj\Debug\EOS.csprojAssemblyReference.cache
+F:\Study\Summer 2\C# .net\Project\code\EOS\EOS\obj\Debug\EOS.Properties.Resources.resources
+F:\Study\Summer 2\C# .net\Project\code\EOS\EOS\obj\Debug\EOS.csproj.GenerateResource.cache
+F:\Study\Summer 2\C# .net\Project\code\EOS\EOS\obj\Debug\EOS.csproj.CoreCompileInputs.cache
+F:\Study\Summer 2\C# .net\Project\code\EOS\EOS\obj\Debug\EOS.exe
+F:\Study\Summer 2\C# .net\Project\code\EOS\EOS\obj\Debug\EOS.pdb
+F:\Study\Summer 2\C# .net\Project\code\EOS\EOS\bin\Debug\EOS.exe.config
+F:\Study\Summer 2\C# .net\Project\code\EOS\EOS\obj\Debug\EOS.LoginForm.resources
+F:\Study\Summer 2\C# .net\Project\code\EOS\EOS\obj\Debug\EOS.Font.resources
+F:\Study\Summer 2\C# .net\Project\code\EOS\EOS\bin\Debug\Interop.WMPLib.dll
+F:\Study\Summer 2\C# .net\Project\code\EOS\EOS\obj\Debug\Interop.WMPLib.dll
+F:\Study\Summer 2\C# .net\Project\code\EOS\EOS\obj\Debug\EOS.csproj.ResolveComReference.cache
+F:\Study\Summer 2\C# .net\Project\code\EOS\EOS\obj\Debug\EOS.ExamFrom.resources
+F:\Study\Summer 2\C# .net\Project\code\EOS\EOS\obj\Debug\EOS.QuestionFrom.resources
+C:\buihungcntt\hihi\Project\EOS\EOS\bin\Debug\EOS.exe.config
+C:\buihungcntt\hihi\Project\EOS\EOS\bin\Debug\EOS.exe
+C:\buihungcntt\hihi\Project\EOS\EOS\bin\Debug\EOS.pdb
+C:\buihungcntt\hihi\Project\EOS\EOS\bin\Debug\Interop.WMPLib.dll
+C:\buihungcntt\hihi\Project\EOS\EOS\obj\Debug\EOS.csprojAssemblyReference.cache
+C:\buihungcntt\hihi\Project\EOS\EOS\obj\Debug\Interop.WMPLib.dll
+C:\buihungcntt\hihi\Project\EOS\EOS\obj\Debug\EOS.csproj.ResolveComReference.cache
+C:\buihungcntt\hihi\Project\EOS\EOS\obj\Debug\EOS.ExamFrom.resources
+C:\buihungcntt\hihi\Project\EOS\EOS\obj\Debug\EOS.Font.resources
+C:\buihungcntt\hihi\Project\EOS\EOS\obj\Debug\EOS.LoginForm.resources
+C:\buihungcntt\hihi\Project\EOS\EOS\obj\Debug\EOS.Properties.Resources.resources
+C:\buihungcntt\hihi\Project\EOS\EOS\obj\Debug\EOS.QuestionFrom.resources
+C:\buihungcntt\hihi\Project\EOS\EOS\obj\Debug\EOS.csproj.GenerateResource.cache
+C:\buihungcntt\hihi\Project\EOS\EOS\obj\Debug\EOS.csproj.CoreCompileInputs.cache
+C:\buihungcntt\hihi\Project\EOS\EOS\obj\Debug\EOS.exe
+C:\buihungcntt\hihi\Project\EOS\EOS\obj\Debug\EOS.pdb
